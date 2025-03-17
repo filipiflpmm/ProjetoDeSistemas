@@ -22,7 +22,7 @@ public class Main {
         Calculadora calculadora = new Calculadora(); // Instanciando a calculadora
 
         // Exibindo o menu de opções
-        System.out.println("Escolha uma operação:");
+        System.out.println("Escolha uma operação a seguir:");
         System.out.println("1 - Somar");
         System.out.println("2 - Subtrair");
         System.out.println("3 - Multiplicar");
